@@ -25,3 +25,10 @@ Content Covered
 - `ContentScale.Crop` to crop the image to fit a shape
 - Used and downloaded custom fonts from google fonts
 - Used `Scaffold` and `TopAppBar` with `CenterAlignedTopAppBar` to create a top bar
+- Used Expand More icon 
+- Added IconButton() Composable with onClick for If/Else expanded scenarios
+- Used remember() ad mutableStateOf() for onClick
+- Modifier.weight() to set UI elements width/height proportions
+- If/Else and setting onClick to hide/not hide more info and expand the item card
+- Used Spring Animation
+- Used animate*AsState() - particularly animateColorAsState for background changes based on expanded/not expanded
